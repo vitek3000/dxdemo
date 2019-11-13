@@ -3,5 +3,5 @@
  */
 
 public with sharing class Schedule_RatesUpdate {
-
+	//new func
 }
